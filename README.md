@@ -1,8 +1,3 @@
-**✅ Here is a professional README.md ready to use for your GitHub repository.**
-
----
-
-```markdown
 # German Traffic Sign Recognition (GTSRB) - CNN Classifier
 
 A deep learning solution for **German Traffic Sign Recognition** using Convolutional Neural Networks (CNN). The model achieves **~92.8% accuracy** on the official test set.
@@ -106,22 +101,6 @@ kagglehub
 - **Training Images**: ~39,209
 - **Test Images**: 12,630
 
-## 🔮 Future Improvements
-
-- [ ] Data augmentation (ImageDataGenerator / Albumentations)
-- [ ] Transfer Learning (ResNet50, EfficientNet, MobileNet)
-- [ ] Real-time video inference with OpenCV
-- [ ] Model optimization (TensorFlow Lite / quantization)
-- [ ] Web deployment (Flask / Streamlit / Gradio)
-- [ ] Attention mechanisms
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
 
 ## 🙏 Acknowledgments
 
